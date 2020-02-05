@@ -1,0 +1,46 @@
+
+body {
+    background-image: url("Night.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 10vw;
+    position: relative;
+}
+
+div {
+    color: white;
+    text-align: center;
+    margin: -150px;
+    font-size: 2vw;
+    font-weight: bold;
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-top: 80px;
+}
+
+button {
+    font-size: 2vw;
+    text-align: center;
+    padding: 15px;
+    margin-left: 44vw;
+    margin-top: 20vw;
+    border-radius: 30px;
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer{
+    font-size: 2vw;
+    color: white;
+    margin-bottom: 1px;
+    padding: 200px;
+    text-align: center;
+
+}
